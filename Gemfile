@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'rails', :git => "https://github.com/rails/rails.git", :branch => "3-1-stable", :ref => "48379df"
+gem 'rails', :git => "https://github.com/rails/rails.git", :ref => "da14489"
 
 # Bundle edge Rails instead:
 # gem 'rails',     :git => 'git://github.com/rails/rails.git'
@@ -8,7 +8,7 @@ gem 'rails', :git => "https://github.com/rails/rails.git", :branch => "3-1-stabl
 gem 'sqlite3'
 
 # Asset template engines
-gem 'sass-rails', "~> 3.1.0.rc"
+# gem 'sass-rails', "~> 3.1.0.rc"
 gem 'coffee-script'
 gem 'uglifier'
 
